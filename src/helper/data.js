@@ -2,7 +2,7 @@ export const data = [
   {
     id: 1,
     title: "Ginolu Kalesi ve Koyu",
-    desc: " Ginolu Kalesi'nde yerleşim, milattan önce 5'inci yüzyılda başlıyor. Venedik ve Ceneviz kolonizasyonu sırasında önem kazanan, 'Kinolis Kalesi' olarak da adlandırılan kalenin iki yanında Ginolu ve Karadeniz adıyla iki küçük liman yer alıyor.Kalenin kuzey ve doğu kısmında Karadeniz'in maviliği, batı kısmında eşsiz güzellikteki Ginolu koyu bulunuyor.",
+    desc: "Çatalzeytin'de bulunan Ginolu Kalesi'nde yerleşim, milattan önce 5'inci yüzyılda başlıyor. Venedik ve Ceneviz kolonizasyonu sırasında önem kazanan, 'Kinolis Kalesi' olarak da adlandırılan kalenin iki yanında Ginolu ve Karadeniz adıyla iki küçük liman yer alıyor.Kalenin kuzey ve doğu kısmında Karadeniz'in maviliği, batı kısmında eşsiz güzellikteki Ginolu koyu bulunuyor.",
     image:
       "https://cdnuploads.aa.com.tr/uploads/Contents/2020/08/22/thumbs_b_c_2277c01eec8ef2506b7db4c96adf3268.jpg?v=123505",
   },
