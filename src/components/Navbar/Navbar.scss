@@ -1,6 +1,5 @@
 @import "../../scss/variables", "../../scss/mixins";
 
-
 .navbar {
   background-color: $cardNavBgColor;
   display: flex;
@@ -10,21 +9,28 @@
     text-decoration: none;
     font-size: 2rem;
     padding: 1rem;
-    &:hover{
+    &:hover {
       background-color: $backgroundColor;
       color: $cardNavBgColor;
     }
   }
 }
 
-@include media-xsm{
-  .navbar{
-    flex-direction: column;
+@include media-xsm {
+  .navbar {
+    // flex-direction: column;
+    justify-content: center;
+    a {
+      font-size: 1rem;
+  }
   }
 }
 
-@include media-md{
-  .navbar{
+@include media-md {
+  .navbar {
     flex-direction: row;
+        a {
+     font-size: 2rem;
+  }
   }
 }
