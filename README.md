@@ -1,10 +1,10 @@
 # Project : Visit Kastamonu
 
-## Check The Live Website ➡️ [Live Website](https://karamurat37.netlify.app/
+## Check The Live Website ➡️ [Live Website](https://karamurat37.netlify.app/)
 
 ## Visualization of the Website
 
-![image](https://user-images.githubusercontent.com/106506769/195634489-3b0c5d13-1401-488a-bce4-e7ae646a4ff4.png)
+![image](https://user-images.githubusercontent.com/106506769/195634872-7bd8c40c-cc84-4130-8d38-a9e551a2c897.png)
 ![image](https://user-images.githubusercontent.com/106506769/195634687-134b6861-a4a8-46e6-91c9-ae158776f93e.png)
 
 
