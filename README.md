@@ -1,9 +1,4 @@
-<<<<<<< HEAD
-# Project : visit Kastamonu
-# Getting Started with Create React App
-=======
 # Project : Visit Kastamonu
->>>>>>> 2d8a40de9c0db7365e6be8bed7eb2cff5ff209b3
 
 ## Check The Live Website ➡️ [Live Website](https://karamurat37.netlify.app/)
 
